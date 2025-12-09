@@ -100,7 +100,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/nwmac/ProjectC/shootingRange/project",
+    "outputFileTracingRoot": "/Users/nwmac/ProjectC/wf-phangan",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -293,11 +293,11 @@
       "resolveAlias": {
         "next-intl/config": "./i18n/request.ts"
       },
-      "root": "/Users/nwmac/ProjectC/shootingRange/project"
+      "root": "/Users/nwmac/ProjectC/wf-phangan"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Users/nwmac/ProjectC/shootingRange/project",
+  "appDir": "/Users/nwmac/ProjectC/wf-phangan",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",

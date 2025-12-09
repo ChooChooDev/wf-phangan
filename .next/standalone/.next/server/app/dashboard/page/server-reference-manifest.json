@@ -1,0 +1,20 @@
+{
+  "node": {
+    "00e0266d951844f4571ea812579811c50eed35f418": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": 44469,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/dashboard/page.tsx"
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/dashboard/page.tsx"
+    }
+  },
+  "edge": {}
+}

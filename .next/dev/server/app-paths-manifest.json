@@ -1,0 +1,9 @@
+{
+  "/api/storehub/create/route": "app/api/storehub/create/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/failed/page": "app/failed/page.js",
+  "/login/page": "app/login/page.js",
+  "/logs/page": "app/logs/page.js",
+  "/register/page": "app/register/page.js",
+  "/register/success/page": "app/register/success/page.js"
+}

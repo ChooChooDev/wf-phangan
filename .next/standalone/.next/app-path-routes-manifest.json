@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/storehub/cancel/route": "/api/storehub/cancel",
+  "/api/storehub/create/route": "/api/storehub/create",
+  "/api/storehub/manual-retry/route": "/api/storehub/manual-retry",
+  "/api/storehub/retry/route": "/api/storehub/retry",
+  "/dashboard/page": "/dashboard",
+  "/failed/page": "/failed",
+  "/login/page": "/login",
+  "/logs/page": "/logs",
+  "/page": "/",
+  "/register/error/page": "/register/error",
+  "/register/page": "/register",
+  "/register/success/page": "/register/success"
+}
